@@ -1,0 +1,12 @@
+.bg-light {
+  background-color: white;
+  --bs-bg-opacity: 0;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-link{ color: white;}
+.nav-item{ padding-right: 25px;}
+/* .slider{
+  background-image: url('/asset/images/s9.jpeg');
+} */
